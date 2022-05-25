@@ -1,0 +1,302 @@
+DEBUG:root:EXTENSION PARAMETERS
+---------------------------------------
+Stencil name:     Social Media Icons
+Current file:     /tmp/ink_ext_XXXXXX.svgZYHIM1
+Path:             /home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil
+Overwrite files:  True
+Use logging:      True
+---------------------------------------
+
+DEBUG:root:  Use : [bg, locked]
+DEBUG:root:  Skip: [other]
+DEBUG:root:  Use : [New_Layer_1653473784.866619, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8683872, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8689163, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8694184, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8699615, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8704696, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8709805, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8715072, component]
+DEBUG:root:  Use : [New_Layer_1653473784.872023, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8725324, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8730433, component]
+DEBUG:root:  Use : [New_Layer_1653473784.873546, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8740573, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8745584, component]
+DEBUG:root:  Use : [New_Layer_1653473784.875075, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8755848, component]
+DEBUG:root:  Use : [New_Layer_1653473784.876097, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8766077, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8771224, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8776257, component]
+DEBUG:root:  Use : [New_Layer_1653473784.8781562, component]
+DEBUG:root:  TOTAL NUMBER OF LAYERS: 22
+
+DEBUG:root:  File name: 1_bg.svg
+DEBUG:root:  Preparing layer target file [bg]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((0.0, 470.0),(0.0, 399.00299))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((21.8275, 441.50050000000005),(26.110730000000004, 62.486054))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((23.242957, 341.5382200000001),(80.606856, 98.844869))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((103.77531, 233.21240999999998),(98.543951, 99.74654000000001))]
+DEBUG:root:['typename', 'Anchor']
+DEBUG:root:['shape_box', BoundingBox((103.77532344227998, 233.21213177483997),(19.3300566496344, 40.674279854834396))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(154.3636, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(190.3636, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(226.36401999999998, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(262.36402, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(298.36402, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(334.36402, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((62.000001, 374.3911),(369.75663, 370.36402))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.68806999999998, 374.3911),(154.00975, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.68806999999998, 374.3911),(190.00975, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.68806999999998, 374.3911),(226.00975, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.68806999999998, 374.3911),(262.00973999999997, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.29143, 374.3911),(298.68003, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.29143, 374.3911),(334.68003, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((211.29143, 374.3911),(369.75663, 370.68003))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(153.75661, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(189.75661, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(225.75661, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(261.75663, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(297.75663, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(333.75663, 369.75663))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((374.3911, 374.3911),(369.75663, 369.75663))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1.0, 1.0),(2.0, 2.0))]
+DEBUG:root:    Creating temp file /tmp/tmpz9hgl70i.svg
+DEBUG:root:  Exporting [bg] as 1_bg.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/1_bg.svg /tmp/tmpz9hgl70i.svg
+
+DEBUG:root:  File name: 2_New_Layer_1653473784.866619.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.866619]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((22.000028718616107, 42.0000086413639),(142.37768061778817, 157.62214894227444))]
+DEBUG:root:    Creating temp file /tmp/tmpbe2cqykj.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.866619] as 2_New_Layer_1653473784.866619.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/2_New_Layer_1653473784.866619.svg /tmp/tmpbe2cqykj.svg
+
+DEBUG:root:  File name: 3_New_Layer_1653473784.8683872.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8683872]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((22.000001, 42.000001),(176.0, 196.0))]
+DEBUG:root:    Creating temp file /tmp/tmpfvqxpfkv.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8683872] as 3_New_Layer_1653473784.8683872.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/3_New_Layer_1653473784.8683872.svg /tmp/tmpfvqxpfkv.svg
+
+DEBUG:root:  File name: 4_New_Layer_1653473784.8689163.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8689163]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((22.000000999999997, 42.000001),(211.99999999999997, 231.99999999999997))]
+DEBUG:root:    Creating temp file /tmp/tmp8tcj18yj.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8689163] as 4_New_Layer_1653473784.8689163.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/4_New_Layer_1653473784.8689163.svg /tmp/tmp8tcj18yj.svg
+
+DEBUG:root:  File name: 5_New_Layer_1653473784.8694184.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8694184]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((22.000001, 42.000001),(248.2469999999999, 267.75312537624274))]
+DEBUG:root:    Creating temp file /tmp/tmposnwliqb.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8694184] as 5_New_Layer_1653473784.8694184.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/5_New_Layer_1653473784.8694184.svg /tmp/tmposnwliqb.svg
+
+DEBUG:root:  File name: 6_New_Layer_1653473784.8699615.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8699615]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((21.999972105485757, 42.000032944141),(284.75297099794557, 303.2469999999997))]
+DEBUG:root:    Creating temp file /tmp/tmpk8wf8jvy.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8699615] as 6_New_Layer_1653473784.8699615.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/6_New_Layer_1653473784.8699615.svg /tmp/tmpk8wf8jvy.svg
+
+DEBUG:root:  File name: 7_New_Layer_1653473784.8704696.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8704696]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((24.906301000000006, 39.093701),(320.0, 340.0))]
+DEBUG:root:    Creating temp file /tmp/tmpchzfcrlx.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8704696] as 7_New_Layer_1653473784.8704696.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/7_New_Layer_1653473784.8704696.svg /tmp/tmpchzfcrlx.svg
+
+DEBUG:root:  File name: 8_New_Layer_1653473784.8709805.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8709805]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((21.172501000000004, 39.172501000000004),(357.66998, 375.6699799999999))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((25.546501, 36.144301),(360.86697999999996, 371.29598000000004))]
+DEBUG:root:    Creating temp file /tmp/tmprfbioi6a.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8709805] as 8_New_Layer_1653473784.8709805.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/8_New_Layer_1653473784.8709805.svg /tmp/tmprfbioi6a.svg
+
+DEBUG:root:  File name: 9_New_Layer_1653473784.8715072.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8715072]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.54955364186176, 190.82662185365967),(139.64608070724242, 159.64572999999996))]
+DEBUG:root:    Creating temp file /tmp/tmpewd03648.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8715072] as 9_New_Layer_1653473784.8715072.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/9_New_Layer_1653473784.8715072.svg /tmp/tmpewd03648.svg
+
+DEBUG:root:  File name: 10_New_Layer_1653473784.872023.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.872023]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((171.68806999999998, 191.68806999999998),(175.64573, 195.64573))]
+DEBUG:root:    Creating temp file /tmp/tmpm90pef3y.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.872023] as 10_New_Layer_1653473784.872023.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/10_New_Layer_1653473784.872023.svg /tmp/tmpm90pef3y.svg
+
+DEBUG:root:  File name: 11_New_Layer_1653473784.8725324.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8725324]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.68806999999998, 190.68806999999998),(212.64573, 230.64573000000001))]
+DEBUG:root:    Creating temp file /tmp/tmp5xqygfg2.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8725324] as 11_New_Layer_1653473784.8725324.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/11_New_Layer_1653473784.8725324.svg /tmp/tmp5xqygfg2.svg
+
+DEBUG:root:  File name: 12_New_Layer_1653473784.8730433.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8730433]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.36008508045086, 191.01588790287056),(247.64572999999996, 267.6458915485699))]
+DEBUG:root:    Creating temp file /tmp/tmpren9alg3.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8730433] as 12_New_Layer_1653473784.8730433.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/12_New_Layer_1653473784.8730433.svg /tmp/tmpren9alg3.svg
+
+DEBUG:root:  File name: 13_New_Layer_1653473784.873546.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.873546]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.29142, 190.29142),(285.31606, 303.31606))]
+DEBUG:root:    Creating temp file /tmp/tmpdpix6td5.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.873546] as 13_New_Layer_1653473784.873546.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/13_New_Layer_1653473784.873546.svg /tmp/tmpdpix6td5.svg
+
+DEBUG:root:  File name: 14_New_Layer_1653473784.8740573.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8740573]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((171.29142, 191.29142000000002),(320.31605999999994, 340.31605999999994))]
+DEBUG:root:    Creating temp file /tmp/tmp53drj3e6.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8740573] as 14_New_Layer_1653473784.8740573.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/14_New_Layer_1653473784.8740573.svg /tmp/tmp53drj3e6.svg
+
+DEBUG:root:  File name: 15_New_Layer_1653473784.8745584.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8745584]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((171.2914136572704, 191.2913169271986),(356.4720599999999, 376.1600599999999))]
+DEBUG:root:    Creating temp file /tmp/tmpourk6wvf.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8745584] as 15_New_Layer_1653473784.8745584.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/15_New_Layer_1653473784.8745584.svg /tmp/tmpourk6wvf.svg
+
+DEBUG:root:  File name: 16_New_Layer_1653473784.875075.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.875075]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((334.39108, 354.39108),(139.39264, 159.39264))]
+DEBUG:root:    Creating temp file /tmp/tmpl4nptdmd.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.875075] as 16_New_Layer_1653473784.875075.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/16_New_Layer_1653473784.875075.svg /tmp/tmpl4nptdmd.svg
+
+DEBUG:root:  File name: 17_New_Layer_1653473784.8755848.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8755848]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((334.39108, 354.39108),(178.97063999999997, 191.81463999999997))]
+DEBUG:root:    Creating temp file /tmp/tmp1g44bn5d.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8755848] as 17_New_Layer_1653473784.8755848.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/17_New_Layer_1653473784.8755848.svg /tmp/tmp1g44bn5d.svg
+
+DEBUG:root:  File name: 18_New_Layer_1653473784.876097.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.876097]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((333.99218, 351.13498000000004),(212.06262, 232.06262))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((346.13498, 347.56358),(215.99162, 220.27662))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((342.20637999999997, 343.63498),(215.99162, 220.27662))]
+DEBUG:root:    Creating temp file /tmp/tmp8d1llwaa.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.876097] as 18_New_Layer_1653473784.876097.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/18_New_Layer_1653473784.876097.svg /tmp/tmp8d1llwaa.svg
+
+DEBUG:root:  File name: 19_New_Layer_1653473784.8766077.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8766077]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((334.39108, 354.39108000000004),(249.26683346452802, 265.51864))]
+DEBUG:root:    Creating temp file /tmp/tmpijzhj7ee.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8766077] as 19_New_Layer_1653473784.8766077.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/19_New_Layer_1653473784.8766077.svg /tmp/tmpijzhj7ee.svg
+
+DEBUG:root:  File name: 20_New_Layer_1653473784.8771224.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8771224]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((335.39108, 353.39068080457474),(284.68264, 302.10264))]
+DEBUG:root:    Creating temp file /tmp/tmpu01xu1f0.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8771224] as 20_New_Layer_1653473784.8771224.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/20_New_Layer_1653473784.8771224.svg /tmp/tmpu01xu1f0.svg
+
+DEBUG:root:  File name: 21_New_Layer_1653473784.8776257.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8776257]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((334.5796180094784, 341.57811651054845),(328.7949721612128, 333.52064233162633))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((343.7332677659574, 350.5476128618027),(325.94639019393406, 331.5145888666013))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((337.5738298613006, 343.59084756587924),(320.06280535123733, 329.8524735379688))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((337.9561032303068, 342.8338001563666),(333.03004189307507, 340.0626586719674))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((343.7504657894737, 350.1042014299123),(332.3854304996137, 338.74355879405425))]
+DEBUG:root:    Creating temp file /tmp/tmph65c3uuk.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8776257] as 21_New_Layer_1653473784.8776257.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/21_New_Layer_1653473784.8776257.svg /tmp/tmph65c3uuk.svg
+
+DEBUG:root:  File name: 22_New_Layer_1653473784.8781562.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653473784.8781562]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((334.39108, 354.39108),(358.38364, 372.40164000000004))]
+DEBUG:root:    Creating temp file /tmp/tmpz7ks7d2j.svg
+DEBUG:root:  Exporting [New_Layer_1653473784.8781562] as 22_New_Layer_1653473784.8781562.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/social-media-icons-svg-stencil/stencil/22_New_Layer_1653473784.8781562.svg /tmp/tmpz7ks7d2j.svg
+
+DEBUG:root:  temp_elements: [[<Element {http://www.w3.org/2000/svg}path at 0x7efd840ac4f0>]]
+DEBUG:root:  delete temp element: [path]
+DEBUG:root:===============================
+
+STENCIL EXPORT FINSISHED:
+
